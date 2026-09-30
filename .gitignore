@@ -1,0 +1,5 @@
+IMDB_dataset.csv
+__pycache__/
+*.pyc
+*.pth
+myenv/
